@@ -1,6 +1,6 @@
 import React from 'react';
 import {Button, Container,Flex,Heading} from "theme-ui";
-
+import netlifyIdentity from 'netlify-identity-widget'
 export default props =>(
     <Container>
         <Flex sx={{flexDirection: "column",padding: 3}}>
