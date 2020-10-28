@@ -1,0 +1,12 @@
+{
+  "name": "JAMstackTodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hasham-dev/JAMstackTodo.git",
+  "author": "Hasham Vakani <hashamvakani@users.noreply.github.com>",
+  "license": "MIT",
+  "private":"true",
+  "workspaces":[
+    "packages/*"
+  ]
+}
